@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSPM-WFP01-02-DOFSTK000-recovered_wfp-dofst_k_wfp_instrument_recovered
 last_request: '2021-07-19T18:23:42.085456Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSPM-WFP01-02-DOFSTK000-recovered_wfp-dofst_k_wfp_instrument_recovered/main/history/response.json
-status: pending
+status: success
