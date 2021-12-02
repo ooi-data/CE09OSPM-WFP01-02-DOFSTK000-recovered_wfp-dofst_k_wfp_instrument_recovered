@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSPM-WFP01-02-DOFSTK000-recovered_wfp-dofst_k_wfp_instrument_recovered
 data_stream: CE09OSPM-WFP01-02-DOFSTK000-recovered_wfp-dofst_k_wfp_instrument_recovered
 end_date: '2021-09-13T15:11:59.800Z'
-last_updated: '2021-12-02T07:36:23.326863Z'
+last_updated: '2021-12-02T07:44:06.347156'
 start_date: '2014-04-19T01:00:10.000Z'
-status: pending
+status: success
